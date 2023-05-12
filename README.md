@@ -1,6 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" >
+    <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4998&pause=1000&color=2925F7&background=CB218F00&center=true&vCenter=true&width=435&lines=Hola+%F0%9F%91%8B+soy+Adriel+Louis;Un+programador+Full-Stack" alt="Typing SVG" /></a>
+    </div>
     <p align="center">
         <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
